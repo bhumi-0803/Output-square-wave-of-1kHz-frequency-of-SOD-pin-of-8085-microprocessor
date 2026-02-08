@@ -6,7 +6,7 @@ SIM-(SET INTERRUPT MASK)
    - for the instruction, the command byte must be loaded in the accumulator.
 
 RIM-(READ INTERRUPT MASK)
-   -to perform serial input of data
-   -through this instruction 8085 knows which interrupt is masked,unmasked,etc.
-   -the contents of accumulator after execution of the RIM instruction provides this information.
+   - to perform serial input of data
+   - through this instruction 8085 knows which interrupt is masked,unmasked,etc.
+   - the contents of accumulator after execution of the RIM instruction provides this information.
  
